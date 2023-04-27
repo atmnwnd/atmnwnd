@@ -6,6 +6,7 @@ I'm a software/computer engineering student, currently living in Mexico.
 
 <p>
     <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+    <img src="https://img.shields.io/badge/-Svelte-orange?logo=svelte&logoColor=white&style=for-the-badge" alt="Svelte" />
     <img src="https://img.shields.io/badge/-NextJS-black?logo=next.js&style=for-the-badge" alt="NextJS" />
     <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&style=for-the-badge&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-PostgreSQL-white?logo=postgresql&style=for-the-badge" alt="PostgreSQL" />
