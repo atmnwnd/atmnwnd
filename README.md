@@ -1,6 +1,6 @@
 <h1><img src="blobcat.png" width="30"/> Hi!</h1>
 
-I'm a software/computer engineering student, currently living in Mexico.
+I'm a software/computer engineering student from Mexico.
 
 ## Things I know
 
