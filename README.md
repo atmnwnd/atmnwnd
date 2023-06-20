@@ -21,7 +21,7 @@ I'm a software/computer engineering student, currently living in Mexico.
 
 <p>
     <img src="https://img.shields.io/badge/-Windows 11-blue?logo=windows11&style=for-the-badge" alt="Windows 11" />
-    <img src="https://img.shields.io/badge/-Ubuntu-orange?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/-i use arch btw-blue?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch Linux" />
     <img src="https://img.shields.io/badge/-Android-white?logo=android&style=for-the-badge" alt="Android" />
     <img src="https://img.shields.io/badge/-iPadOS-white?logo=apple&style=for-the-badge&logoColor=black" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&style=for-the-badge" alt="Visual Studio Code" />
